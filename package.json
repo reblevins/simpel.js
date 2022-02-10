@@ -35,7 +35,7 @@
     "lodash": "^4.17.19",
     "node-fetch": "^2.6.1",
     "node-html-parser": "^1.2.20",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0",
     "tailwindcss": "^1.6.2"
   }
